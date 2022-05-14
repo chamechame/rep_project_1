@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Event {\n  constructor(Id, Name, Date, Description, Category, Location) {\n    this.Id = Id;\n    this.Name = Name;\n    this.Date = Date;\n    this.Description = Description;\n    this.Category = Category;\n    this.Location = Location;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
